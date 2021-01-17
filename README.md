@@ -1,15 +1,11 @@
-# Ohjelmointi 1, SWD4TN032, kevät 2020
+# Ohjelmointi 1, SWD4TN032, kevät 2021
 
 Tervetuloa Haaga-Helian ohjelmointi 1 -opintojaksolle! Tämä GitHub-repositorio toimii kahden toteutuksen, SWD4TN032-3004 ja SWD4TN032-3005 yhteisenä tietovarastona.
 
 ## Lähiopetus
 
-Kurssin lähiopetus järjestetään maanantaisin ja keskiviikkoisin klo 8:15-10:45 seuraavissa luokissa:
+Kurssin lähiopetus järjestetään maanantaisin ja keskiviikkoisin klo 8:00-10:45 Teamsissa.
 
-* Luokka 5009 (SWD4TN032-3004 / Jukka)
-* Luokka 5015 (SWD4TN032-3005 / Teemu)
-
-Tulemme tekemään kurssilla yhteistyötä rinnakkaisten toteutusten kesken ja tiedotamme yhteisten sessioiden aikatauluista ja sijainneista pääsääntöisesti oppitunneilla ja Teamsissa.
 
 ## Aikataulu
 
@@ -24,7 +20,7 @@ Tulemme tekemään kurssilla yhteistyötä rinnakkaisten toteutusten kesken ja t
     <tbody>
         <tr>
             <td>Ma</td>
-            <td>20.1.</td>
+            <td>18.1.</td>
             <td>
                 <strong>Kurssin järjestelyt ja osallistumisen vahvistaminen<br />
                 Eclipse-sovelluskehitin<br />
@@ -40,7 +36,7 @@ Tulemme tekemään kurssilla yhteistyötä rinnakkaisten toteutusten kesken ja t
         </tr>
         <tr>
             <td>Ke</td>
-            <td>22.1.</td>
+            <td>20.1.</td>
             <td>
                 <strong>Ehtolauseet</strong><br />
                 <a href="https://github.com/haagahelia/swd4tn032-TH_JJ/wiki/Totuusarvot-ja-ehtolauseet">📝 Muistiinpanot</a><br />
@@ -53,7 +49,7 @@ Tulemme tekemään kurssilla yhteistyötä rinnakkaisten toteutusten kesken ja t
         </tr>
         <tr>
             <td>Ma</td>
-            <td>27.1.</td>
+            <td></td>
             <td>
                 <strong>Toistorakenteet</strong><br />
                 <a href="https://github.com/haagahelia/swd4tn032-TH_JJ/wiki/Toistorakenteet">📝 Muistiinpanot</a><br />
@@ -65,7 +61,7 @@ Tulemme tekemään kurssilla yhteistyötä rinnakkaisten toteutusten kesken ja t
         </tr>
         <tr>
             <td>Ke</td>
-            <td>29.1.</td>
+            <td></td>
             <td>
                 <strong>Merkkijonot</strong><br />
                 <a href="https://github.com/haagahelia/swd4tn032-TH_JJ/wiki/Muuttujien-roolit-ja-merkkijonot">📝 Muistiinpanot</a><br />
@@ -78,7 +74,7 @@ Tulemme tekemään kurssilla yhteistyötä rinnakkaisten toteutusten kesken ja t
         </tr>
         <tr>
             <td>Ma</td>
-            <td>3.2.</td>
+            <td></td>
             <td>
                 <strong>Listat</strong><br />
                 <a href="https://github.com/haagahelia/swd4tn032-TH_JJ/wiki/Listat">📝 Muistiinpanot</a><br />
@@ -90,7 +86,7 @@ Tulemme tekemään kurssilla yhteistyötä rinnakkaisten toteutusten kesken ja t
         </tr>
         <tr>
             <td>Ke</td>
-            <td>5.2.</td>
+            <td></td>
             <td>
                 <strong>Taulukot</strong><br />
                 <a href="https://github.com/haagahelia/swd4tn032-TH_JJ/wiki/Taulukot-(arrays)">📝 Muistiinpanot</a><br />
@@ -103,7 +99,7 @@ Tulemme tekemään kurssilla yhteistyötä rinnakkaisten toteutusten kesken ja t
         </tr>
         <tr>
             <td>Ma</td>
-            <td>10.2.</td>
+            <td></td>
             <td>
                 <strong>Staattiset luokkametodit, parametrit ja paluuarvot</strong><br />
                 <a href="https://github.com/haagahelia/swd4tn032-TH_JJ/wiki/Metodit">📝 Muistiinpanot</a><br />
@@ -115,7 +111,7 @@ Tulemme tekemään kurssilla yhteistyötä rinnakkaisten toteutusten kesken ja t
         </tr>
         <tr>
             <td>Ke</td>
-            <td>12.2.</td>
+            <td></td>
             <td>
                 <strong>Ajan käsitteleminen Javassa<br />
                 Ohjelman paketointi ja suorittaminen Eclipsen ulkopuolella<br />
@@ -130,17 +126,17 @@ Tulemme tekemään kurssilla yhteistyötä rinnakkaisten toteutusten kesken ja t
         </tr>
         <tr>
             <td>Ma</td>
-            <td>17.2.</td>
+            <td></td>
             <td><del>Intensiiviviikko</del></td>
         </tr>
         <tr>
             <td>Ke</td>
-            <td>19.2.</td>
+            <td></td>
             <td><del>Intensiiviviikko</del></td>
         </tr>
         <tr>
             <td>Ma</td>
-            <td>24.2.</td>
+            <td></td>
             <td>
                 <strong>
                 Olio-ohjelmoinnin alkeet<br />
@@ -155,7 +151,7 @@ Tulemme tekemään kurssilla yhteistyötä rinnakkaisten toteutusten kesken ja t
         </tr>
         <tr>
             <td>Ke</td>
-            <td>26.2.</td>
+            <td></td>
             <td>
                 <strong>Olio-ohjelmointi jatkuu:<br/>
                 Luokkien yhteyssuhteet<br/>
@@ -170,7 +166,7 @@ Tulemme tekemään kurssilla yhteistyötä rinnakkaisten toteutusten kesken ja t
         </tr>
         <tr>
             <td>Ma</td>
-            <td>2.3.</td>
+            <td></td>
             <td>
                 <strong>Olioiden vertailu ja järjestäminen</strong><br/> 
                 <a href="https://github.com/haagahelia/swd4tn032-TH_JJ/wiki/Olioiden-vertailu">📝 Muistiinpanot</a><br />
@@ -179,7 +175,7 @@ Tulemme tekemään kurssilla yhteistyötä rinnakkaisten toteutusten kesken ja t
         </tr>
         <tr>
             <td>Ke</td>
-            <td>4.3.</td>
+            <td></td>
             <td>
                 <strong>Poikkeukset</strong><br />
                 <a href="https://github.com/haagahelia/swd4tn032-TH_JJ/wiki/Poikkeukset">📝 Muistiinpanot</a><br />
@@ -192,7 +188,7 @@ Tulemme tekemään kurssilla yhteistyötä rinnakkaisten toteutusten kesken ja t
         </tr>
         <tr>
             <td>Ma</td>
-            <td>9.3.</td>
+            <td></td>
             <td>
                 <strong>Tekstitiedostojen lukeminen ja tallentaminen</strong><br />
                 <a href="https://github.com/haagahelia/swd4tn032-TH_JJ/wiki/Tiedostot">📝 Muistiinpanot</a><br />
@@ -203,7 +199,7 @@ Tulemme tekemään kurssilla yhteistyötä rinnakkaisten toteutusten kesken ja t
         </tr>
         <tr>
             <td>Ke</td>
-            <td>11.3.</td>
+            <td></td>
             <td>
                 <strong>Ryhmäkohtaiset pikkuprojektit:</strong><br />
                 <ul>
@@ -215,7 +211,7 @@ Tulemme tekemään kurssilla yhteistyötä rinnakkaisten toteutusten kesken ja t
         </tr>
         <tr>
             <td>Ma</td>
-            <td>16.3.</td>
+            <td></td>
             <td>
                 <strong>Kokeeseen kertaus ja harjoituskoe</strong><br />
                 Harjoituskoe löytyy Viopesta. Harjoituskokeesta ei saa pisteitä eikä bonuspisteitä ja sen tekeminen on täysin vapaaehtoista.
@@ -223,7 +219,7 @@ Tulemme tekemään kurssilla yhteistyötä rinnakkaisten toteutusten kesken ja t
         </tr>
         <tr>
             <td>Ke</td>
-            <td>18.3.</td>
+            <td></td>
             <td><strong>Koe</strong>
                 <ul>
                     <li>Koe alkaa klo 8:15 ja päättyy klo 10:45</li>
