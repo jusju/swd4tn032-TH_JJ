@@ -1,6 +1,6 @@
 # Ohjelmointi 1, SWD4TN032, kevät 2021
 
-Tervetuloa Haaga-Helian ohjelmointi 1 -opintojaksolle! Tämä GitHub-repositorio toimii kahden toteutuksen, SWD4TN032-3004 ja SWD4TN032-3005 yhteisenä tietovarastona.
+Tervetuloa Haaga-Helian ohjelmointi 1 -opintojaksolle! Tämä GitHub-repositorio toimii toteutuksen tietovarastona.
 
 ## Lähiopetus
 
