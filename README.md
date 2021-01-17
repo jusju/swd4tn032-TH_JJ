@@ -219,7 +219,7 @@ Kurssin lähiopetus järjestetään maanantaisin ja keskiviikkoisin klo 8:00-10:
         </tr>
         <tr>
             <td>Ke</td>
-            <td></td>
+            <td>17.3.</td>
             <td><strong>Koe</strong>
                 <ul>
                     <li>Koe alkaa klo 8:15 ja päättyy klo 10:45</li>
