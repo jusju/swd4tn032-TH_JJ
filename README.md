@@ -222,7 +222,7 @@ Kurssin lähiopetus järjestetään maanantaisin ja keskiviikkoisin klo 8:00-10:
             <td>17.3.</td>
             <td><strong>Koe</strong>
                 <ul>
-                    <li>Koe alkaa klo 8:15 ja päättyy klo 10:45</li>
+                    <li>Koe alkaa klo 9:00 ja päättyy klo 10:45</li>
                     <li>Koe tehdään Eclipsellä ja palautetaan Viopeen</li>
                     <li>Mukana saa olla kaksi A4-arkkia muistiinpanoja (kaksipuolisia)</li>
                     <li>Kokeen tehtävät arvioidaan manuaalisesti Viopen automaattisen tarkistuksen lisäksi</li>
